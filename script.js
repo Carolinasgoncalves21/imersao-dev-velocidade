@@ -11,7 +11,7 @@ elementoValorConvertidoMS.innerHTML = valorConvertidoMS;
 function ConverterKmH() {
     var valorMS = (document.getElementById("valor")).value;
     var valorKmHNumerico = parseFloat(valorMS)
-    var valorEmKmH = (valorMS*1.8)
+    var valorEmKmH = (valorMS*3.6)
     console.log (valorEmKmH);
     var elementoValorConvertidoKmH = document.getElementById ("valorConvertidoKmH");
     var valorConvertidoKmH = valorEmKmH + " km/h";
