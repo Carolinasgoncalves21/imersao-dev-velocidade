@@ -9,7 +9,7 @@ elementoValorConvertidoMS.innerHTML = valorConvertidoMS;
 }
 
 function ConverterKmH() {
-    var valorMS = (document.getElementById("valor")).value;
+    var valorMS = (document.getElementById("valor2")).value;
     var valorMSNumerico = parseFloat(valorMS)
     var valorEmKmH = (valorMS*3.6).toFixed(1)
     console.log (valorEmKmH);
