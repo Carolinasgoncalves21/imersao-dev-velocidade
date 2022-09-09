@@ -97,3 +97,7 @@ h2 {
   color: #dfb9d8;
   font-size: 25px;
 }
+footer {
+  display: flex;
+  align-items: center;
+}
