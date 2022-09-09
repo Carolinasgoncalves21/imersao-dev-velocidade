@@ -11,7 +11,7 @@ body {
   flex-direction: column;
   align-items: center;
   padding: 50px;
-  border: 2px double #a753ba;
+  border: 2px double white;
   border-radius: 2px;
 
 }
