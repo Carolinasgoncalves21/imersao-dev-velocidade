@@ -3,6 +3,7 @@ body {
   min-height: 400px;
   background-image: linear-gradient( to top, #dfb9d8, #a753ba );
   background-size: 100vh;
+  display: flex;
   align-items: center; 
 }
 
@@ -71,8 +72,8 @@ body {
 
 .imagemConversor{
  display: inline-block;
- width: inherit;
- height: 150px;
+ width: 200px;
+ height: 200px;
  margin: 2px;
 }
 
@@ -100,4 +101,5 @@ h2 {
 
 footer {
   display: flex;
+  align-items: center; 
 }
