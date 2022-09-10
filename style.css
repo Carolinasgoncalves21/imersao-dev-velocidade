@@ -3,9 +3,9 @@ body {
   min-height: 400px;
   background-image: linear-gradient( to top, #dfb9d8, #a753ba );
   background-size: 100vh;
-
-
+  align-items: center; 
 }
+
 .areadeentrada{
   display: flex;
   flex-direction: column;
@@ -13,8 +13,8 @@ body {
   padding: 50px;
   border: 2px double white;
   border-radius: 2px;
-
 }
+
 .areadeconversao {
   display: flex;
   flex-direction: row;
@@ -65,14 +65,14 @@ body {
 }
 .redeSocial{
   width: 3vw;
-  height: 2px;
+  height: 200px;
   padding: 2px;
 }
 
 .imagemConversor{
  display: inline-block;
  width: inherit;
- height: 2px;
+ height: 200px;
  margin: 2px;
 }
 
@@ -97,7 +97,7 @@ h2 {
   color: #dfb9d8;
   font-size: 25px;
 }
+
 footer {
   display: flex;
-  align-items: center;  
 }
