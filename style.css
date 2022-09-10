@@ -65,14 +65,14 @@ body {
 }
 .redeSocial{
   width: 3vw;
-  height: 200px;
+  height: auto;
   padding: 2px;
 }
 
 .imagemConversor{
  display: inline-block;
  width: inherit;
- height: 200px;
+ height: inherit;
  margin: 2px;
 }
 
