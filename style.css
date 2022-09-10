@@ -3,8 +3,6 @@ body {
   min-height: 400px;
   background-image: linear-gradient( to top, #dfb9d8, #a753ba );
   background-size: 100vh;
-  display: flex;
-  align-items: center; 
 }
 
 .areadeentrada{
