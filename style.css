@@ -65,14 +65,14 @@ body {
 }
 .redeSocial{
   width: 3vw;
-  height: auto;
+  height: 2px;
   padding: 2px;
 }
 
 .imagemConversor{
  display: inline-block;
  width: inherit;
- height: auto;
+ height: 2px;
  margin: 2px;
 }
 
@@ -98,5 +98,6 @@ h2 {
   font-size: 25px;
 }
 footer {
-  align-items: center;
+  display: flex;
+  align-items: center;  
 }
