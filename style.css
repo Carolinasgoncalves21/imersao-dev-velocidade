@@ -98,6 +98,6 @@ h2 {
 }
 
 footer {
-  display: flex;
+  display: inline-flex;
   align-items: center; 
 }
